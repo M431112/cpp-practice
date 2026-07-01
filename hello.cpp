@@ -12,4 +12,4 @@ int main(){
     int sum = 6; // as a example(sum)
     cout<<"Hello World  " <<sum;
     return 0;
-} 
+}
