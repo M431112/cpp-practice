@@ -6,7 +6,7 @@
  
 using namespace std;
 
-int num = 78; // This is global variable
+int num = 78; // This is global  variable
 
 void sum(){       
     int a ;

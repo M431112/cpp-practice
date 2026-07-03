@@ -19,7 +19,7 @@ int main(){
     // **********Float, Double and Long double laterals**********
     float d = 56.98F;
     long double e = 56.98l;
-    cout<<"\nThe size of 34.4 is "<<sizeof(34.4)<<endl; // by default decimals are considered as double
+    cout<<"\nThe size of 34.4 is "<<sizeof(34.4)<<endl;  // by default decimals are considered as double
     cout<<"The size of 34.4 is "<<sizeof(34.4f)<<endl;
     cout<<"The size of 34.4 is "<<sizeof(34.4F)<<endl;
     cout<<"The size of 34.4 is "<<sizeof(34.4l)<<endl;

@@ -26,7 +26,7 @@ int main(){
     // Assignment Operators --> use to assign values to variables
     /*
     int a = 6, k = 6
-    char f = 'h'......etc
+    char f = 'h'.......etc
     */
     
     // Comparision Operators

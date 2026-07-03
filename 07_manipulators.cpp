@@ -35,7 +35,7 @@ int main(){
     // It means which operator should be preferred 
     int u=3, v=4;
     int t = (((((u*5)+v)+67)-45)+67);  
-    // For more info. go to cpprefrence.com->operator_precedence
+    // For more info. go to cpprefrence.com -> operator_precedence
     cout<<"Value of t is: "<<t ;
 
     return 0;
