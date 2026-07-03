@@ -1,6 +1,6 @@
 #include<iostream>
 
-/*Dta types in C++ is catagorised in three types:
+/*Data types in C++ is catagorised in three types:
   - Built-in (int, float, char, double, bool) 
   - User-defined (Struct, Union, Enum) -> see these later
   - Derived (Array, Function, Pointer) -> see these later*/
