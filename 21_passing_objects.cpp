@@ -82,26 +82,26 @@ int mainNum()
 
 int main()
 {
-    // int n;
-    // string vehicleType;
-    // cout << "Type of Vehicle: ";
-    // cin >> vehicleType;
-    // cout << "Enter the details of " << vehicleType << ". " << endl;
-    // cout << "Total no. of " << vehicleType << ": " << endl;
-    // cin >> n;
-    // vehicle car[n];
+    int n;
+    string vehicleType;
+    cout << "Type of Vehicle: ";
+    cin >> vehicleType;
+    cout << "Enter the details of " << vehicleType << ". " << endl;
+    cout << "Total no. of " << vehicleType << ": " << endl;
+    cin >> n;
+    vehicle car[n];
 
-    // for (int i = 0; i < n; i++)
-    // {
-    //     car[i].setType();
-    // }
+    for (int i = 0; i < n; i++)
+    {
+        car[i].setType();
+    }
 
-    // cout << "\n----- Vehicle Details -----\n";
+    cout << "\n----- Vehicle Details -----\n";
 
-    // for (int i = 0; i < n; i++)
-    // {
-    //     car[i].getType();
-    // }
+    for (int i = 0; i < n; i++)
+    {
+        car[i].getType();
+    }
 
     mainNum();
 
