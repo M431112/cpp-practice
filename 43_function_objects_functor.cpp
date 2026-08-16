@@ -13,6 +13,7 @@ int main()
     // sort(arr, arr+5); // Last element will be untouched!
     // sort(arr, arr+4);  // Last two element will be untouched!
 
+    // To print array in descending order we use "greater<int>()" functors
     cout << "Array in descending order:\n";
     sort(arr, arr + 6, greater<int>());
 
